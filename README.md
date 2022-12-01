@@ -2,11 +2,11 @@
 
 <div>
   <a href="https://kkadoca.github.io/Portfolio/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kKadoca&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kKadoca&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kKadoca&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kKadoca&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
 <div><br>
-  <img align="right" alt="Kadu-pic" height="150" style="border-radius:50px;" src="#">
+  <img align="right" alt="Kadu-pic" height="150" style="border-radius:50px;" src="https://github.com/kKadoca/kKadoca/blob/main/img/kadu-icon.png?raw=true">
   <img align="center" alt="Kadu-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Kadu-HTML" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Kadu-CSS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
