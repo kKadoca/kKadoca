@@ -1,7 +1,6 @@
-### 🌱 Atualmente estudando:
-
-<div>
-  <img align="right" alt="Kadu-avatar" height="150" style="border-radius:50px;" src="https://github.com/kKadoca/kKadoca/blob/main/img/kadu-avatar.png?raw=true">
+ ### 🌱 Atualmente estudando:
+  
+<div> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
