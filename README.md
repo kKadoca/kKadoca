@@ -2,8 +2,6 @@
 <br>
 <div>
   <a href="https://kkadoca.github.io/Portfolio/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kKadoca&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kKadoca&layout=compact&langs_count=7&theme=ayu-mirage"/>
   <img height="150em" style="border-radius:50px;" src="https://github.com/kKadoca/kKadoca/blob/main/img/kadu-icon.png?raw=true">
 </div>
  
