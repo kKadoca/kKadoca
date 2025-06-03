@@ -1,4 +1,4 @@
-<h1> Eu sou o Kadu, designer e desenvolvedor pleno. Futuro analista.</h1>
+<h1> Eu sou o Kadu, designer e desenvolvedor pleno.</h1>
 <br>
 <div>
   <a href="https://kkadoca.github.io/Portfolio/">
